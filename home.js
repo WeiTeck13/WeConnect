@@ -202,6 +202,20 @@ const Home = ({ navigation }) => {
 
                 </View>
 
+                <Text style={styles.h1}>Contact</Text>
+                
+                <View>
+
+                    <TouchableOpacity
+                        onPress={() =>  navigation.navigate('Contact')}
+                        style={styles.startButton}>
+
+                        <Text style={styles.buttonText}>Сімейний контакт \ Family contact</Text>
+
+                    </TouchableOpacity>
+
+                </View>
+
                 <Text style={styles.h1}>Інформація про новини \ News information</Text>
                 <Text style={styles.description}>Уникайте поширення чуток і не довіряйте їм. Щоб отримати інформацію про новини, зверніться до надійних ЗМІ чи офіційного веб-сайту уряду України.{'\n'}Avoid spreading or trusting rumours. Please refer to reliable news media or Ukraine government official website for news information.</Text>
 

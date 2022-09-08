@@ -13,6 +13,8 @@
  
  import HomeScreen from './home';
 
+ import Contact from './Contact';
+
  const Stack = createStackNavigator();
  
  const App = () => {
@@ -22,6 +24,8 @@
        <Stack.Navigator initialRouteName="Home">
  
          <Stack.Screen name="Home" component={HomeScreen} options={{headerStyle: {backgroundColor: '#0057b7'}, headerTitleStyle: {color:'white'} }}/>
+        
+         <Stack.Screen name="Contact" component={Contact} options={{headerStyle: {backgroundColor: '#0057b7'}, headerTitleStyle: {color:'white'} }}/>
         
        </Stack.Navigator>
  
