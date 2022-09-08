@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeConnect.iml" filepath="$PROJECT_DIR$/.idea/modules/WeConnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeConnect.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeConnect.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeConnect.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeConnect.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeConnect.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeConnect.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeConnect.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeConnect.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-72527566/WeConnect.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/603297283/WeConnect.react-native-masked-view_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-328145637/WeConnect.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2144852723/WeConnect.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1878389637/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1878389637/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1878389637/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1878389637/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1878389637/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1878389637/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
