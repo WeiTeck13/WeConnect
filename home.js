@@ -19,7 +19,7 @@ import { styles } from "./stylesheet Folder/style";
 import call from 'react-native-phone-call';
 
 //==========================================================================================
-// Contact number
+// Contact
 //==========================================================================================
 
 const ambulance = {
