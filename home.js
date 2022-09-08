@@ -202,7 +202,7 @@ const Home = ({ navigation }) => {
 
                 </View>
 
-                <Text style={styles.h1}>Contact</Text>
+                <Text style={styles.h1}>контакт \ Contact</Text>
                 
                 <View>
 
